@@ -128,11 +128,11 @@ comments:
     project: true
     publication: true
     event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
+#  disqus:
+#    shortname: ''
+#    show_count: true
+#  commento:
+#    url: ''
 search:
   provider: wowchemy
   algolia:
