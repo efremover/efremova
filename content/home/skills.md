@@ -21,13 +21,13 @@ feature:
   icon_pack: fab
   name: R
 - #description: 100%
-  icon: fa-flask
+  icon: flask
   icon_pack: fas
   name: Biochemistry
 - description: 10%
-  icon: camera-retro
+  icon: paint-brush
   icon_pack: fas
-  name: Photography
+  name: Scientific Illustration
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
