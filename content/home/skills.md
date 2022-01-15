@@ -18,7 +18,7 @@ subtitle:
 feature:
 - #description: 90%
   icon: fish
-  icon_pack: fab
+  icon_pack: fas
   name: Marine Biology
 - #description: 100%
   icon: flask
