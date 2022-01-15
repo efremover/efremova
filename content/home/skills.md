@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- #description: 90%
   icon: fish
   icon_pack: fab
   name: Marine Biology
@@ -24,7 +24,7 @@ feature:
   icon: flask
   icon_pack: fas
   name: Biochemistry
-- description: 10%
+- #description: 10%
   icon: paint-brush
   icon_pack: fas
   name: Scientific Illustration
