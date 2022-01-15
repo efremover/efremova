@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: fish
   icon_pack: fab
-  name: R
+  name: Marine Biology
 - #description: 100%
   icon: flask
   icon_pack: fas
