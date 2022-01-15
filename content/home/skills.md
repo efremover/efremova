@@ -20,10 +20,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- #description: 100%
+  icon: fa-flask
   icon_pack: fas
-  name: Statistics
+  name: Biochemistry
 - description: 10%
   icon: camera-retro
   icon_pack: fas
