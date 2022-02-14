@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: []('Jana_SISBNP2018.jpeg')'
+  caption: 'Image credit: []('assets/media/Jana_SISBNP2018.jpeg')'
   focal_point: Right
 
 links:
