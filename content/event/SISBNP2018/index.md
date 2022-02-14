@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  caption: 'Image credit: [SISBNP]('https://sites.google.com/uniupo.it/sinoitalian2018/photo-gallery')'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [SISBNP]('https://sites.google.com/uniupo.it/sinoitalian2018/photo-gallery')'
+#  focal_point: Right
 
 links:
 #- icon: twitter
@@ -56,6 +56,6 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
+projects = []
 #- example
 ---
