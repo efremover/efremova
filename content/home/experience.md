@@ -25,7 +25,7 @@ experience:
   - title: Doctoral Researcher
     company: Stazione Zoologica Anton Dohrn
     company_url: 'www.szn.it'
-    company_logo: SZN-logo.png
+    company_logo: #SZN-logo.png
     location: Italy
     date_start: '2019-10-01'
     date_end: ''
