@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
-#  caption: 'Image credit: [SISBNP]('https://sites.google.com/uniupo.it/sinoitalian2018/photo-gallery')'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [SISBNP](https://sites.google.com/uniupo.it/sinoitalian2018/photo-gallery)'
+  focal_point: Right
 
 links:
 - icon: twitter
@@ -50,6 +50,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+slides = ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
