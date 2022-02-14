@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: []('assets/media/Jana_SISBNP2018.jpeg')'
+  caption: 'Image credit: [SISBNP]('https://sites.google.com/uniupo.it/sinoitalian2018/photo-gallery')'
   focal_point: Right
 
 links:
