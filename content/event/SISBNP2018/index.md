@@ -25,7 +25,7 @@ all_day: true
 publishDate: "2022-02-14T00:00:00Z"
 
 authors: []
-tags: []
+tags: [microbial symbiosis, reef ecology, bioerosion, climate change]
 
 # Is this a featured talk? (true/false)
 featured: true
