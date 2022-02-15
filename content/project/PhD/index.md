@@ -12,7 +12,7 @@ date: "2022-02-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "example-slides"
 ---
 
 I am researching the influence of the sponge microbiome at SZN and CNR.
