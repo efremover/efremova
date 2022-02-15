@@ -5,7 +5,7 @@ tags:
 - Porifera
 date: ""
 
-actie: false
+active: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
