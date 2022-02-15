@@ -5,6 +5,7 @@ tags:
 - Porifera
 - Ocean Acidification
 - Symbiosis
+
 date: "2022-02-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -32,4 +33,4 @@ url_video: ""
 slides = ""
 ---
 
-[placeholder - abstract]
+I am researching the influence of the sponge microbiome at SZN and CNR.
