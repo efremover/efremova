@@ -6,7 +6,7 @@ title: Jana Efremova
 superuser: true
 
 # Role/position/tagline
-role: Nutrition Scientist and Doctoral Student in Life, Health, and Chemical Sciences
+role: Nutrition Scientist and Doctoral Student in Life, Health and Chemical Sciences
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Stazione Zoologica Anton Dohrn
